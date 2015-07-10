@@ -1,0 +1,8 @@
+Origin: SomeGuyWithALaptop's Repository
+Label: SomeGuyWithALaptop's Repo
+Suite: stable
+Version: 0.0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: SomeGuyWithALaptop's Pretty Neat Repository

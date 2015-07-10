@@ -1,0 +1,9 @@
+Package: com.someguywithalaptop.sling
+Name: Sling
+Depends: winterboard
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple Winterboard theme
+Maintainer: SomeGuyWithALaptop <someguywithalaptop@gmail.com>
+Author: SomeGuyWithALaptop <someguywithalaptop@gmail.com>
+Section: Themes (Springboard)
