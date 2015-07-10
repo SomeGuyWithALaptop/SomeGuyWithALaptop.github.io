@@ -1,0 +1,15 @@
+Package: com.someguywithalaptop.sling
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SomeGuyWithALaptop <someguywithalaptop@gmail.com>
+Depends: winterboard
+Filename: ./debs//com.someguywithalaptop.sling_1.0.0_iphoneos-arm.deb
+Size: 1382
+MD5sum: e608dd2a70b48a7085d394584188d364
+SHA1: b2094107097b7dc6927fff4f85765dcf95d7d128
+SHA256: 3ebed27b1570451270fc346db8789f229f1efd7e553b60e47319504dc831e35b
+Section: Themes (Springboard)
+Description: A simple Winterboard theme
+Author: SomeGuyWithALaptop <someguywithalaptop@gmail.com>
+Name: Sling
+
